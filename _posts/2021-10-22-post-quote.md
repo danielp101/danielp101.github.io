@@ -29,6 +29,8 @@ The target group for the Boomerang application are people who would like to jour
 #### How we have adopted journaling to the modern lifestyle:
 Talking to people, we understood that allocating time to journal, either in the morning or evening, was one of the main thresholds of starting of journaling. Research also suggests that, on the average, people pick up their mobile phones [around 60 times per day](https://www.theguardian.com/lifeandstyle/2019/aug/21/cellphone-screen-time-average-habits) and about half of the time spent on their phone, [they spend on social media platforms](https://techjury.net/blog/time-spent-on-social-media/#gref). That indicates that people, on the average, have a lot of idle time throughout the day.
 
+![image](/assets/images/Background visual.png)
+
 Thus, the Boomerang application is designed for people to journal during idle times throughout the day, instead of taking extended time off during the morning or evening to do so. Since people already spend a lot of that idle time using social media platforms, the Boomerang design takes inspiration from them. Meaning that how you write a journal entry in the Boomerang application is designed in a similar way of how messages are shared between people on social media platforms.  
 
 We have also learned that for some people who have tried journaling, lack of engagement was the reason for why they had not continued with the activity. Thus, the Boomerang application utilizes machine learning to analyze diary inputs and provides users with useful insights about their input. Therefore, the Boomerang supports users in locating the stressors in their lives by connecting actions and emotions together. These findings are presented in the form of insights provided to users and are meant to increase engagement.
@@ -125,6 +127,8 @@ Under settings the user can customise the application to their liking.
 ## Results
 
 To evaluate the design, we conducted interviews with two potential users. Both users are 28 years of age, one female and one male, are currently not journaling but would like to. During both interviews the interviewer explained the app’s purpose, showed the current prototype, and asked about the main functions.
+
+![image](/assets/images/Result visual.png)
 
 Through the interviews we learned that:
 
