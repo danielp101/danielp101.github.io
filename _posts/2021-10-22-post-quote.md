@@ -149,4 +149,4 @@ Based on those evaluations we seem to be on the right track towards creating an 
 
 The reason for why the app currently does not allow photo input is because the text recognition technology would not be able to understand the input. Thus, the next step should be to explore further whether that matters or not for users and whether if photo input would be detrimental to the simplicity of the app.
 
-This application was made by Birigir, Daniel and Sisi
+This application was designed by Birigir, Daniel and Sisi
