@@ -10,7 +10,7 @@ categories:
   <img src="https://drive.google.com/uc?export=view&id=1EUf2DIymOOvZxoE-pa3Xo1zhQQnVkR64" />
 </p>
 
-*A journaling application for the modern era. It is designed to meet the needs of normal people. Normal people that life in the fast paced world of today.*
+*A journaling application for the modern era. It is designed to meet the needs of normal people. Normal people that live in the fast paced world of today.*
 
 **[Browse and try our prototype](https://www.figma.com/proto/M3kSduZpuR7lveCW87pdzs/Interactive-with-Phone-background?node-id=2%3A87&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A302)**
 
