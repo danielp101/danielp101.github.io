@@ -19,5 +19,5 @@ title: false
    
    <h style="font-size:40px;"><a href="https://danielp101.github.io/blog/post-quote2/">Campus Hide and Seek</a></h>
 
-<p style="font-size: 10px; font-style: italic;">Designed by: Chenxu, Daniel, Myron and Viktor<a href="https://l77l77.github.io/">Sisi</a>. </p>
+<p style="font-size: 10px; font-style: italic;">Designed by: Chenxu, Daniel, Myron and Viktor. </p>
    
