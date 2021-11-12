@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Daniel"
   avatar : "/assets/images/6.png"
-  bio    : "Welcome to my portfolio page :) I am a master student in interaction design. I studied Information Systems and Cognitive Science on Bachelor level. "
+  bio    : "Welcome to my portfolio page :) I am a master student in interaction design."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
