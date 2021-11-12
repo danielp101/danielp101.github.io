@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Daniel"
   avatar : "/assets/images/6.png"
-  bio    : "Welcome to my portfolio page :) I am a master student in interaction design with an interest in programming and design."
+  bio    : "Welcome to my portfolio page :)"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
