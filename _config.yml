@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Daniel"
-  avatar : "/assets/images/6.png"
+  avatar : "/assets/images/avat.png"
   bio    : "Welcome to my portfolio page :)"
   links:
     - label: "Website"
